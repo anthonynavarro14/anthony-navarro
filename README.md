@@ -1,7 +1,6 @@
 <div align="center">
   <h1> Hi, I'm Anthony Navarro</h1>
   <p>Data Science Professional with a strong passion for Deep Learning and Machine Learning</p>
-  <p><img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Funny GIF" width="100"></p>
   <img src="https://path/to/your/profile-picture.jpg" alt="Profile Picture" width="200">
 </div>
 
