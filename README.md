@@ -2,7 +2,7 @@
   <h1>Hi, I'm Anthony Navarro</h1>
   <p>Data Science Professional with a strong passion for Deep Learning and Machine Learning</p>
   <p>Committed to combining business acumen with data science to transform the world and create impactful solutions.</p>
-  <img src="https://path/to/your/profile-picture.jpg" alt="Profile Picture" width="200">
+  <img src="[https://path/to/your/profile-picture.jpg](https://github.com/anthonynavarro14/anthony-navarro/blob/main/PRO_HEADSHOT.jpg?raw=true)" alt="Profile Picture" width="200">
 </div>
 
 ---
