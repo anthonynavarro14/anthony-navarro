@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi, I'm Anthony Navarro</h1>
   <p>Data Science Professional with a strong passion for Deep Learning and Machine Learning</p>
-  <p>Committed to combining business acumen with data science to transform the world and create impactful solutions.</p>
-  <img src="[https://path/to/your/profile-picture.jpg](https://github.com/anthonynavarro14/anthony-navarro/blob/main/PRO_HEADSHOT.jpg?raw=true)" alt="Profile Picture" width="200">
+  <p>⚡️🚀 Committed to combining business acumen with data science to transform the world and create impactful solutions.</p>
+  <img src="https://github.com/yourusername/yourusername/blob/main/PRO_HEADSHOT.jpg" alt="Profile Picture" width="200">
 </div>
 
 ---
@@ -19,13 +19,13 @@ Check out my personal portfolio website: [Anthony Navarro's Portfolio](https://w
 
 ## Featured Projects
 ### [Gas Fee Prediction Using Transformers](https://github.com/yourusername/project1)
-Description of Project 1. Key features, technologies used, etc.
+🔍 Description of Project 1. Key features, technologies used, etc.
 
 ### [Advanced Object Recognition Deep Learning Model](https://github.com/yourusername/project2)
-Description of Project 2. Key features, technologies used, etc.
+🎯 Description of Project 2. Key features, technologies used, etc.
 
 ### [Volatility Prediction Using Transformers](https://github.com/yourusername/project3)
-Description of Project 3. Key features, technologies used, etc.
+📊 Description of Project 3. Key features, technologies used, etc.
 
 For more projects, go to my portfolio website: [Anthony Navarro's Portfolio](https://www.datascienceportfol.io/anthonynavarro)
 
