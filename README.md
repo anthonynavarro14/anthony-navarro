@@ -2,7 +2,7 @@
   <h1>Hi, I'm Anthony Navarro</h1>
   <p>Data Science Professional with a strong passion for Deep Learning and Machine Learning</p>
   <p>⚡️🚀 Committed to combining business acumen with data science to transform the world and create impactful solutions. ⚡️🚀</p>
-  <img src="https://github.com/anthonynavarro14/anthony-navarro/blob/main/PRO_HEADSHOT.jpg?raw=true" alt="Profile Picture" width="200">
+  <img src="https://github.com/anthonynavarro14/anthony-navarro/blob/main/PRO_HEADSHOT.jpg?raw=true" alt="Profile Picture" width="300" style="border-radius: 50%; border: 2px solid #000;">
 </div>
 
 ---
@@ -46,7 +46,7 @@ For more projects, go to my portfolio website: [Anthony Navarro's Portfolio](htt
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anthonynavarro14/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anthonynavarro14/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonnavarro/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourusername)
 
 ---
