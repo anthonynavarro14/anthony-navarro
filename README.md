@@ -21,10 +21,10 @@ Check out my personal portfolio website: [Anthony Navarro's Portfolio](https://w
 ### [Gas Fee Prediction Using Transformers](https://github.com/yourusername/project1)
 Description of Project 1. Key features, technologies used, etc.
 
-### [Project 2](https://github.com/yourusername/project2)
+### [Advanced Object Recognition Deep Learning Model](https://github.com/yourusername/project2)
 Description of Project 2. Key features, technologies used, etc.
 
-### [Project 3](https://github.com/yourusername/project3)
+### [Volatility Prediction Using Transfromers](https://github.com/yourusername/project3)
 Description of Project 3. Key features, technologies used, etc.
 
 
@@ -40,7 +40,3 @@ For more projects, go to my portfolio website: [Anthony Navarro's Portfolio](htt
 ## LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anthonynavarro14/)
 
----
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
