@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi, I'm Anthony Navarro</h1>
   <p>Data Science Professional with a strong passion for Deep Learning and Machine Learning</p>
-  <p>⚡️🚀 Committed to combining business acumen with data science to transform the world and create impactful solutions.</p>
-  <img src="https://github.com/yourusername/yourusername/blob/main/PRO_HEADSHOT.jpg" alt="Profile Picture" width="200">
+  <p>⚡️🚀 Committed to combining business acumen with data science to transform the world and create impactful solutions. ⚡️🚀</p>
+  <img src="https://github.com/anthonynavarro14/anthony-navarro/blob/main/PRO_HEADSHOT.jpg?raw=true" alt="Profile Picture" width="200">
 </div>
 
 ---
@@ -46,11 +46,10 @@ For more projects, go to my portfolio website: [Anthony Navarro's Portfolio](htt
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anthonynavarro14/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anthonynavarro14/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourusername)
 
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonynavarro14&show_icons=true&theme=dark)
