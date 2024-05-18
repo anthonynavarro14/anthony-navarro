@@ -13,8 +13,12 @@ I'm a data scientist with experience in AI, data analysis, and deep learning mod
 
 ---
 
+## Portfolio
+Check out my personal portfolio website: [Anthony Navarro's Portfolio](https://www.datascienceportfol.io/anthonynavarro)
+
+---
 ## Featured Projects
-### [Project 1](https://github.com/yourusername/project1)
+### [Gas Fee Prediction Using Transformers](https://github.com/yourusername/project1)
 Description of Project 1. Key features, technologies used, etc.
 
 ### [Project 2](https://github.com/yourusername/project2)
@@ -23,6 +27,8 @@ Description of Project 2. Key features, technologies used, etc.
 ### [Project 3](https://github.com/yourusername/project3)
 Description of Project 3. Key features, technologies used, etc.
 
+
+For more projects, go to my portfolio website: [Anthony Navarro's Portfolio](https://www.datascienceportfol.io/anthonynavarro)
 ---
 
 ## Skills
@@ -31,16 +37,8 @@ Description of Project 3. Key features, technologies used, etc.
 
 ---
 
-## Connect with Me
+## LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anthonynavarro14/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
-
----
-
-## Portfolio
-Check out my personal portfolio website: [Anthony Navarro's Portfolio](https://www.datascienceportfol.io/anthonynavarro)
 
 ---
 
